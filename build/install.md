@@ -1,5 +1,5 @@
 ## 下载程序
-[![下载](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-32%E4%BD%8D%7C64%E4%BD%8D-brightgreen?style=for-the-badge&logo=windows)](http://d.faqun.cn/d/ali/Tg%E6%9C%BA%E5%99%A8%E4%BA%BA/tsetup-x64.4.2.4.exe)
+[![下载](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-32%E4%BD%8D%7C64%E4%BD%8D-brightgreen?style=for-the-badge&logo=windows)](../download/暖暖TG机器人.exe)
 
 ## 注册账号
 
