@@ -1,5 +1,5 @@
 ## 下载程序
-[![下载](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-32%E4%BD%8D%7C64%E4%BD%8D-brightgreen?style=for-the-badge&logo=windows)](../download/暖暖TG机器人.exe)
+[![下载](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-32%E4%BD%8D%7C64%E4%BD%8D-brightgreen?style=for-the-badge&logo=windows)](https://github.com/nntgbot/nntgbot.github.io/raw/main/download/%E6%9A%96%E6%9A%96TG%E6%9C%BA%E5%99%A8%E4%BA%BA.exe)
 
 ## 注册账号
 
